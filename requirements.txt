@@ -1,0 +1,2 @@
+flask==0.12  # versi lama, rawan terhadap XSS
+requests==2.19.1  # versi lama, rawan terhadap DoS
